@@ -1,0 +1,2 @@
+# pubgmac
+PUBG lisans
